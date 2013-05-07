@@ -15,7 +15,7 @@
 
 	"background":{
 		"scripts": ["contextMenu.js","visserchResult.js"]
-	}
+	},
 
 	"page_action": {
 		"default_icon": "icon19.png",

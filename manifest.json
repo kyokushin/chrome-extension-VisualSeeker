@@ -14,7 +14,7 @@
 	},
 
 	"background":{
-		"scripts": ["contextMenu.js","visserchResult.js"]
+		"scripts": ["contextMenu.js"]
 	},
 
 	"page_action": {
